@@ -36,7 +36,7 @@ global.namaowner = "Devil Script - By DevilsAdvocate" // ini untuk funticon repl
 global.linkfoto = "https://telegra.ph/file/d226e31c9f06b551a4f45.jpg" // untuk foto di cmd menu/spesialmenu/bugmenu
 global.version = "Devil 5.0 Gen 3"
 global.foother = "Devil 5.0 Gen 3 © mourvex"
-global.idsaluran = "12036331 3106841033@newsletter"
+global.idsaluran = "120363313106841033@newsletter"
 global.linkgc = 'https://whatsapp.com/channel/0029VaimaUx2kNFhAd6QCt3s'
 global.linksaluran = "https://whatsapp.com/channel/0029VaimaUx2kNFhAd6QCt3s"
 global.linkyt = 'https://youtu.be/7_hhBr0ubO8?si=aFeeNaa_pxoIc0Nk'
